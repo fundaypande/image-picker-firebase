@@ -10,3 +10,4 @@ Firebase merupakan framework untuk aplikasi web maupun android yang dirancang un
 <br />
 <br />
 ## Demo Project
+<img src="https://github.com/fundaypande/image-picker-firebase/blob/master/demo/image%20upload.gif" width="300px"> 
